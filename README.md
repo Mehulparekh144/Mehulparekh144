@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a BTech fresher with a strong interest in data science, Web Development, and UI/UX design.<br>🌱 I’m currently learning MERN and Backend Development <br>
+🔭 I am a BTech fresher with a strong interest in data science, Web Development, and UI/UX design.<br>🌱 I’m currently learning MERN and Backend Development <br>🎮 Check my portfolio - https://mehulparekh.vercel.app/ <br>
 
 
 ## 🌐 Socials:
