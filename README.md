@@ -1,3 +1,5 @@
+<img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="512px"/>
+
 # 💫 About Me:
 👯 <b>I’m looking to collaborate on</b> &rarr; MERN stack based projects<br>🤝 <b>I’m looking for help with</b> &rarr; anything related to frontend development<br>🌱 <b>I’m currently learning</b> &rarr; Strapi , Remix , Refine<br>💬 <b>Ask me about</b> &rarr;  Frontend Development ,UI/UX , Machine Learning and Data<br>⚡ <b>Fun fact</b> &rarr;  The first webcam was used to monitor a coffee pot at Cambridge University. 🍵
 
@@ -18,8 +20,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mehulparekh144&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mehulparekh144&icon=8&color=4)](https://visitcount.itsvg.in)
