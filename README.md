@@ -1,7 +1,10 @@
-<img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="150px"/>
+
+  <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="150px"/>
 
 # 💫 About Me:
 👯 <b>I’m looking to collaborate on</b> &rarr; MERN stack based projects<br>🤝 <b>I’m looking for help with</b> &rarr; anything related to frontend development<br>🌱 <b>I’m currently learning</b> &rarr; Strapi , Remix , Refine<br>💬 <b>Ask me about</b> &rarr;  Frontend Development ,UI/UX , Machine Learning and Data<br>⚡ <b>Fun fact</b> &rarr;  The first webcam was used to monitor a coffee pot at Cambridge University. 🍵
+
+
 
 
 ## 🌐 Socials:
