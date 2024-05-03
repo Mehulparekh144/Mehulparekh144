@@ -3,7 +3,7 @@
 # 💫 About Me:
 👯 <b>I’m looking to collaborate on</b> &rarr; MERN stack based projects<br>🤝 <b>I’m looking for help with</b> &rarr; anything related to frontend development<br>🌱 <b>I’m currently learning</b> &rarr; T3 Stack <br>💬 <b>Ask me about</b> &rarr;  Frontend Development ,UI/UX , Machine Learning and Data<br>⚡ <b>Fun fact</b> &rarr;  The first webcam was used to monitor a coffee pot at Cambridge University. 🍵
 
-
+![Snake animation](Mehulparekh144)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-parekh-a519a9196/) 
