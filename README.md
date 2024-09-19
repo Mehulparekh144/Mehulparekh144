@@ -1,4 +1,5 @@
-<h3 align="left">Hi 👋! My name is Mehul Parekh and I'm a Software Developer, from Boston</h3>
+<h1 align="center">Hi👋! My name is Mehul Parekh </h1>
+<h3 align="center">I'm a Software Developer, from Boston</h3>
 
 ###
 
@@ -71,8 +72,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mehulparekh144/Mehulparekh144/output/snake.svg" alt="Snake animation" />
-
-###
