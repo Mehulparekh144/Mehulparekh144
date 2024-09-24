@@ -1,5 +1,18 @@
-<h1 align="center">Hi👋! My name is Mehul Parekh </h1>
-<h3 align="center">I'm a Software Developer, from Boston</h3>
+<h1 align="left">Hi👋! My name is Mehul Parekh </h1>
+<h3 align="left">I'm a Software Developer, from Boston</h3>
+
+<div>
+  
+- 💻 **Full-stack wizard** with a knack for building fast, scalable web apps and microservices. From **Next.js** to **Spring Boot**, I love turning complex problems into clean, efficient solutions, improving performance, and reliability across the board.
+
+- 🧑‍🏫 **Mentor and guide at heart**—I’m helping the next generation of developers build full-stack apps, instilling Agile values and a growth mindset while watching them level up in real-time. It’s all about empowering others and seeing the impact.
+
+- 🤝 **Problem-solver with a passion for teamwork**—whether it’s streamlining communication across teams or scaling distributed systems on AWS, I thrive in collaborative environments that turn big ideas into reality.
+
+- 📚 **Always learning**—currently diving deep into **Spring Boot** and **Distributed Systems**, crafting resilient, scalable services that tackle the challenges of modern software development head-on. I love solving hard problems and learning something new every day.
+
+- 🚀 **Proud creator** of projects like **Gather Chat** and **Stock Portfolio Manager**, where I’ve implemented real-time messaging, optimized APIs, and automated CI/CD pipelines—speeding up launches and delivering value faster.  
+</div>
 
 ###
 
